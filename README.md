@@ -17,8 +17,5 @@ pip install -r requirements.txt
 │   ├── labels.txt
 │   └── model.tfite
 ├── Proyek_Klasifikasi_Gambar.ipynb
-├── requirements.txt
-└── README.md
-
-## Model Output
-- SavedModel 
+├── README.md
+└── requirements.txt
